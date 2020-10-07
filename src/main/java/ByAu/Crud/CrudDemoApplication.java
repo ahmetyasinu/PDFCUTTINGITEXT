@@ -43,10 +43,6 @@ public class CrudDemoApplication {
             float w = media.getWidth() - 200;
             float h = media.getHeight() - 200;
 
-//            float llx = media.getX() + 300; ikametgah da okey
-//            float lly = media.getY() + 700;
-//            float w = media.getWidth() - 200;
-//            float h = media.getHeight() - 200;
 
             // It's important to write explicit Locale settings, because decimal separator differs in
             // different regions and in PDF only dot is respected
