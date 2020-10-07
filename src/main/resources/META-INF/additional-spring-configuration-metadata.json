@@ -1,0 +1,21 @@
+{
+  "properties": [
+    {
+      "name": "set_charset("
+      utf8
+      ");",
+      "type": "java.lang.String",
+      "description": "Description for set_charset("
+      utf8
+      ");."
+    },
+    {
+      "name": "set_charset("
+      utf8
+      ");",
+      "type": "java.lang.String",
+      "description": "Description for set_charset("
+      utf8
+      ");."
+    }
+  ] }
